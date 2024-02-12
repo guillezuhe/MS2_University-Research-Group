@@ -5,7 +5,7 @@ https://htmlpreview.github.io/?https://github.com/guillezuhe/MSMG_web/blob/edits
 <b>Este enlace sirve para previsualizar la página una vez que se han hecho cambios y se han guardado con 'Commit changes'.</b> Para publicarlos en el servidor, el administrador lo hará en cuanto reciba la notificación de cambios realizados.
 
 
-</br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 
 
